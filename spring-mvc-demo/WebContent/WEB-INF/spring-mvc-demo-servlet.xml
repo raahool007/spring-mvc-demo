@@ -16,7 +16,7 @@
 	<!-- Step 3: Add support for component scanning -->
 	<context:component-scan base-package="com.luv2code.springdemo" />
 
-	<!-- Step 4: Add support for conversion, formatting and validation support -->
+	<!-- Step 4: Add support for conversion, formatting and validation support  -->
 	<mvc:annotation-driven/>
 
 	<!-- Step 5: Define Spring MVC view resolver -->
